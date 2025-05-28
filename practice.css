@@ -1,0 +1,70 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.title {
+  font-family:"Inter", "Angkor",serif;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 28px;
+  color: #001f66;
+  letter-spacing: 2px;
+}
+
+
+.intro {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.highlight {
+  font-weight: bold;
+  color: #001f66;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.description {
+  font-family: monospace;
+  color: #333;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.info {
+  font-size: 20px;
+  color: #333;
+}
+
+.btn {
+  background-color: rgb(63, 111, 190);
+  color: rgb(227, 228, 237);
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  letter-spacing: 4px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.learn-btn:hover {
+  background-color: blue;
+}
+
+.wave {
+  margin: 0 4px;
+}
